@@ -1,0 +1,16 @@
+# System files
+.DS_Store
+**/.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments and secrets
+.env
+venv/
+node_modules/
+.idea/
+.vscode/
+
+# Large files (>100MB)
+netflix_filtered.csv
